@@ -4,11 +4,11 @@
 package com.its.demo;
 
 /**
- * @×÷Õß£º Kevin Wu
+ * @ä½œè€…ï¼š Kevin Wu
  *
- * @ÈÕÆÚ£º2016Äê1ÔÂ12ÈÕ ÏÂÎç5:33:32
+ * @æ—¥æœŸï¼š2016å¹´1æœˆ12æ—¥ ä¸‹åˆ5:33:32
  *
- * @°æ±¾£º Xinoman Technologies CO.,LTD.
+ * @ç‰ˆæœ¬ï¼š Xinoman Technologies CO.,LTD.
  */
 public class Test {
 
@@ -17,7 +17,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World 20150112!");
+		System.out.println("Hello World 20150112-new!");
 
 	}
 
